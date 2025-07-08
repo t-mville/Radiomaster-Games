@@ -18,6 +18,7 @@ Breakout – A brick-breaking arcade game with paddle and ball mechanics.
 Asteroids – Navigate your ship and destroy incoming asteroids in this space shooter.
 
 ✨ Credits
+
 Mike Dogan – Author of Asteroids, Breakout, and X-Tris games
 
 Alexey Stankevich - Author of the FPV simulator game
